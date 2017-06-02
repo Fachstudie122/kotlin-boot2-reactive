@@ -1,0 +1,8 @@
+app:
+  appName: 'WTP FHIR Ingestion Service'
+
+logging:
+  level:
+    org:
+      springframework:
+        web: DEBUG
